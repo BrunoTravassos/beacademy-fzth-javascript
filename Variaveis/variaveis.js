@@ -16,7 +16,8 @@ console.log('variavel name4 existe aqui?', name4)
 
 //Local e Escopo
 
-let teste = 'Testando'
+//let teste = 'Testando'
+let teste 
 console.log("Estou testando aqui?", teste);//'Testando'
 {
     teste = 'testou'
