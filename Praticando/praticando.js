@@ -102,3 +102,4 @@ d)const d = 10;
   const d = 20; erro de referencia, ja foi definida anteriormente
   console.log(d);
 }
+*/
