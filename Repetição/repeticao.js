@@ -20,7 +20,11 @@ while (i <= 20) {
 
 //For Of
 //Array
-let numero = ["Bruno", "Lys", "Thaisa", "Edilson", "Carol"];
+let numero = ["Bruno",
+    "Lys",
+    "Thaisa",
+    "Edilson",
+    "Carol"];
 
 for (num of numero) {
   console.log(num);
@@ -43,7 +47,11 @@ for (item in animais) {
   //Pega valores individuais das propriedades de um objeto
   console.log(animais.nome);
 }
-let arrayNome = ["Bruno", "Lys", "Thaisa", "Edilson", "Carol"];
+let arrayNome = ["Bruno",
+    "Lys",
+    "Thaisa",
+    "Edilson",
+    "Carol"];
 for (item in arrayNome) {
   console.log(arrayNome); // Mostra todo Array
   console.log(arrayNome[item]); //Mostra todos os valores
